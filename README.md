@@ -3,5 +3,5 @@
 
 1. 게시물 등록
 
-<img src="![등록](https://user-images.githubusercontent.com/94151256/155885127-9d6a24b6-7104-4657-86a1-76d63c48cc2b.gif)">
+<img width="{80%}" src="https://user-images.githubusercontent.com/94151256/155885127-9d6a24b6-7104-4657-86a1-76d63c48cc2b.gif">
 
