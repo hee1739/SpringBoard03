@@ -7,4 +7,4 @@
 
 2. 게시물 수정/삭제
 
-<img width="{200%}" src="https://user-images.githubusercontent.com/94151256/155885735-be5cb6a9-0d4b-45be-98d5-0b4ca5be272b.gif">
+<img width="{200%}" src="https://user-images.githubusercontent.com/94151256/156814872-f04de23c-213f-40d2-8059-4081ec3490e1.gif">
