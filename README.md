@@ -3,7 +3,7 @@
 
 1. 게시물 등록
 
-<img src="https://user-images.githubusercontent.com/94151256/155885127-9d6a24b6-7104-4657-86a1-76d63c48cc2b.gif">
+<img src="https://user-images.githubusercontent.com/94151256/156814207-416b47e7-22aa-4c01-af66-4635ba603245.gif">
 
 2. 게시물 수정/삭제
 
